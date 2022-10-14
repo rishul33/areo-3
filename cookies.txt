@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.environmentalscience.org	TRUE	/	FALSE	1999999999	PHPSESSID	pu0hfv86m6a2q3vpu8qn1402c0
+.environmentalscience.org	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_4_sn_1F53ADE7993D4F1F401C1E967B102570_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0
+
